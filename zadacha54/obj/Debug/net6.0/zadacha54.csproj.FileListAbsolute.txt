@@ -1,0 +1,15 @@
+/Users/margaritakoksharova/seminar8_homework/zadacha54/bin/Debug/net6.0/zadacha54
+/Users/margaritakoksharova/seminar8_homework/zadacha54/bin/Debug/net6.0/zadacha54.deps.json
+/Users/margaritakoksharova/seminar8_homework/zadacha54/bin/Debug/net6.0/zadacha54.runtimeconfig.json
+/Users/margaritakoksharova/seminar8_homework/zadacha54/bin/Debug/net6.0/zadacha54.dll
+/Users/margaritakoksharova/seminar8_homework/zadacha54/bin/Debug/net6.0/zadacha54.pdb
+/Users/margaritakoksharova/seminar8_homework/zadacha54/obj/Debug/net6.0/zadacha54.csproj.AssemblyReference.cache
+/Users/margaritakoksharova/seminar8_homework/zadacha54/obj/Debug/net6.0/zadacha54.GeneratedMSBuildEditorConfig.editorconfig
+/Users/margaritakoksharova/seminar8_homework/zadacha54/obj/Debug/net6.0/zadacha54.AssemblyInfoInputs.cache
+/Users/margaritakoksharova/seminar8_homework/zadacha54/obj/Debug/net6.0/zadacha54.AssemblyInfo.cs
+/Users/margaritakoksharova/seminar8_homework/zadacha54/obj/Debug/net6.0/zadacha54.csproj.CoreCompileInputs.cache
+/Users/margaritakoksharova/seminar8_homework/zadacha54/obj/Debug/net6.0/zadacha54.dll
+/Users/margaritakoksharova/seminar8_homework/zadacha54/obj/Debug/net6.0/refint/zadacha54.dll
+/Users/margaritakoksharova/seminar8_homework/zadacha54/obj/Debug/net6.0/zadacha54.pdb
+/Users/margaritakoksharova/seminar8_homework/zadacha54/obj/Debug/net6.0/zadacha54.genruntimeconfig.cache
+/Users/margaritakoksharova/seminar8_homework/zadacha54/obj/Debug/net6.0/ref/zadacha54.dll
